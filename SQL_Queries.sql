@@ -24,7 +24,7 @@ CREATE TABLE city_day (
 SET GLOBAL sql_mode = REPLACE(@@GLOBAL.sql_mode, 'STRICT_TRANS_TABLES', '');
 SET GLOBAL local_infile = 1;
 
-LOAD DATA LOCAL INFILE 'D:\SUBJECTS\Data_Analyst\AnalystProjects\AQI_Analysis\city_day.csv'
+LOAD DATA LOCAL INFILE 'city_day.csv'
 INTO TABLE city_day
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
