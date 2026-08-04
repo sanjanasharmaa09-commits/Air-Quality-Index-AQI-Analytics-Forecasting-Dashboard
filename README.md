@@ -29,7 +29,7 @@ Air pollution is a critical public health issue in India, with AQI levels varyin
 **Cities analyzed:** Delhi, Mumbai, Bengaluru, Kolkata, Bhopal, Lucknow, Chennai, Patna, Hyderabad, Jaipur — selected to represent a range of pollution severity across regions.
 
 ---
-
+# Raw dataset (all 26 cities): [Download from Kaggle](https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india)
 ## Data Cleaning
 
 - Removed columns with excessive missing data (e.g., Xylene — 61% missing)
@@ -103,7 +103,7 @@ The interactive dashboard includes:
 ```
 AQI_Analysis/
 ├── data/
-│   ├── city_day.csv                    # Raw historical dataset
+│   ├── Raw dataset  [Download from Kaggle](https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india)                    # Raw historical dataset
 │   ├── aqi_cleaned_for_tableau.csv     # Cleaned dataset used in Tableau
 │   ├── live_aqi_data.csv               # Live API-collected data
 │   └── delhi_forecast.csv              # Prophet forecast output
