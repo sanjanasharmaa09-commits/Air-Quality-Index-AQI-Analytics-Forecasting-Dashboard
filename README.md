@@ -130,4 +130,4 @@ AQI_Analysis/
 
 **Sanjana Sharma**
 Final-year BCA (AI & Data Science) student
-[GitHub](https://github.com/sanjanasharmaa09) | [LinkedIn](#)
+[GitHub](https://github.com/sanjanasharmaa09) 
