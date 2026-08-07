@@ -91,7 +91,6 @@ The interactive dashboard includes:
 - Weekly data aggregation significantly improves forecasting accuracy over daily-level modeling
 
 ---
-
 ## Tech Stack
 
 `SQL (MySQL)` `Python` `Pandas` `Prophet` `Matplotlib/Seaborn` `Tableau Public` `REST API (OpenWeatherMap)`
