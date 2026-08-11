@@ -14,6 +14,7 @@ Air pollution is a critical public health issue in India, with AQI levels varyin
 
 | Stage | Tool | Purpose |
 |---|---|---|
+
 | Data Collection | CPCB Historical Data (Kaggle) + OpenWeatherMap API | Historical + live AQI data |
 | Data Storage & Cleaning | MySQL | Structured queries, trend analysis |
 | Analysis & Forecasting | Python (Pandas, Prophet) | Correlation analysis, time-series forecasting |
