@@ -5,7 +5,6 @@ An end-to-end data analytics project analyzing air quality trends across 10 majo
 ---
 
 ## Problem Statement
-
 Air pollution is a critical public health issue in India, with AQI levels varying significantly by city and season. This project analyzes historical air quality data to identify pollution trends, forecast future AQI levels, and translate raw pollutant data into actionable health-risk categories for the public.
 
 ---
